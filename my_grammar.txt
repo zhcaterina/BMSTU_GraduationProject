@@ -1,0 +1,5 @@
+S = adj<gram=gent> EMO
+S = noun<agr-gnc=1> CLOTHES
+S = verb<agr-gnc=1> CLOTHES
+S = adj<agr-gnc=1> CLOTHES
+S = adj<agr-gnc=1> ANIMALS

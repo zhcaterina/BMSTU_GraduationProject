@@ -1,0 +1,3 @@
+S = adj<reg-l-all, agr-gnc=1> BIOLOGY
+S = adj<agr-gnc=1> noun<gram=noun, gram=masc> adj<agr-gnc=1> BIOLOGY
+
